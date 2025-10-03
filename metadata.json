@@ -1,0 +1,5 @@
+{
+  "name": "AI Flowchart Architect",
+  "description": "An intelligent flowchart generator that transforms text, documents, or images into beautiful, editable diagrams. Harnessing the power of AI, this tool provides a Figma-like experience for creating and refining flowcharts with drag-and-drop simplicity and powerful editing capabilities.",
+  "requestFramePermissions": []
+}
